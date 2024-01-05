@@ -1,11 +1,12 @@
 repo_name: zaknbur/pycon-2017-eda-tutorial
 report_id: 4963a3589fb0382e6e77c24c610d1189
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:31:52+00:00'
+timestamp: '2024-01-05T08:35:15+00:00'
 requested_by: zaknbur
 provider: github
 branch: master
-detected_tools_count: 26
+detected_tools_count: 27
 tools:
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
@@ -79,6 +86,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
@@ -88,6 +96,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/notebooks/0-Intro/html-versions/0-Introduction-to-Exploratory-Data-Analysis.html
   detection_source: notebooks/0-Intro/html-versions/0-Introduction-to-Exploratory-Data-Analysis.html
   last_updated_by: chloe
   last_updated_on: 2017-06-04 01:40:15.000000000 Z
@@ -99,6 +108,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shells
   image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
@@ -111,6 +121,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial
   detection_source: Repo Metadata
 - name: NumPy
   description: Fundamental package for scientific computing with Python
@@ -122,8 +133,8 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: setup/requirements.txt
-  detection_source: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
+  detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
 - name: Requests
@@ -135,6 +146,7 @@ tools:
   category: Application Utilities
   sub_category: Data Transfer
   image_url: https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-31 00:59:01.000000000 Z
@@ -148,7 +160,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: chloe
   last_updated_on: 2017-05-15 22:04:55.000000000 Z
@@ -161,6 +173,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-31 00:59:01.000000000 Z
@@ -169,6 +182,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10517/647025.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-31 00:59:01.000000000 Z
@@ -179,12 +193,13 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5689/sf_ops_badge_64_normal.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/environment.yml
   detection_source: setup/environment.yml
   last_updated_by: chloe
   last_updated_on: 2017-05-31 00:59:01.000000000 Z
 - name: ipyleaflet
   description: A Jupyter widget for dynamic Leaflet maps
-  package_url: https://pypi.org/ipyleaflet
+  package_url: https://pypi.org/project/ipyleaflet
   version: 0.9.1
   license: MIT
   open_source: true
@@ -192,13 +207,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: itsdangerous
   description: Various helpers to pass data to untrusted environments and back
-  package_url: https://pypi.org/itsdangerous
+  package_url: https://pypi.org/project/itsdangerous
   version: 1.1.0
   license: BSD-3-Clause
   open_source: true
@@ -206,13 +221,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: jedi
   description: An autocompletion tool for Python that can be used for text editors
-  package_url: https://pypi.org/jedi
+  package_url: https://pypi.org/project/jedi
   version: 0.13.1
   license: MIT
   open_source: true
@@ -220,13 +235,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20260/default_9a53068260c70b2274df0967716480e7e3f74b0d.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: jmespath
   description: JSON Matching Expressions
-  package_url: https://pypi.org/jmespath
+  package_url: https://pypi.org/project/jmespath
   version: 0.9.3
   license: MIT
   open_source: true
@@ -234,25 +249,26 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19993/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: jsonschema
   description: An implementation of JSON Schema validation for Python
-  package_url: https://pypi.org/jsonschema
+  package_url: https://pypi.org/project/jsonschema
   license: MIT
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19854/default_3fbfa1d88b4408e903227ac391490e8efb8dea58.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: jupyter-client
   description: Jupyter protocol implementation and client libraries
-  package_url: https://pypi.org/jupyter-client
+  package_url: https://pypi.org/project/jupyter-client
   version: 5.2.3
   license: BSD-3-Clause
   open_source: true
@@ -260,13 +276,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20352/default_f465c24287ef1189cebf97fef20e50d0bbc5623d.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: jupyter-core
   description: Jupyter core package
-  package_url: https://pypi.org/jupyter-core
+  package_url: https://pypi.org/project/jupyter-core
   version: 4.4.0
   license: BSD-3-Clause
   open_source: true
@@ -274,7 +290,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20703/default_49f208ff144f55afc8c1c08f01bcb1eef2f5bb23.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
@@ -287,7 +303,7 @@ tools:
     first_patched: 4.11.2
 - name: jupyterlab
   description: The JupyterLab notebook server extension
-  package_url: https://pypi.org/jupyterlab
+  package_url: https://pypi.org/project/jupyterlab
   version: 0.35.4
   license: BSD-3-Clause
   open_source: true
@@ -295,7 +311,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20376/default_e6c4d6b6295b7d6934a5e16b2a16a7aa07991d65.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
@@ -309,7 +325,7 @@ tools:
     first_patched: 1.2.21
 - name: nbformat
   description: The Jupyter Notebook format
-  package_url: https://pypi.org/nbformat
+  package_url: https://pypi.org/project/nbformat
   version: 4.4.0
   license: BSD-3-Clause
   open_source: true
@@ -317,13 +333,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20035/default_a3692729f5b4ca7eb94218522ed4260bba4a5c15.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
 - name: palettable
   description: Color palettes for Python
-  package_url: https://pypi.org/palettable
+  package_url: https://pypi.org/project/palettable
   version: 3.1.1
   license: MIT
   open_source: true
@@ -331,7 +347,21 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: setup/requirements.txt
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
+  detection_source: setup/requirements.txt
+  last_updated_by: cmawer
+  last_updated_on: 2019-05-29 17:59:07.000000000 Z
+- name: statsmodels
+  description: Statistical computations and models for Python
+  package_url: https://pypi.org/project/statsmodels
+  version: 0.9.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/zaknbur/pycon-2017-eda-tutorial/blob/master/setup/requirements.txt
   detection_source: setup/requirements.txt
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
