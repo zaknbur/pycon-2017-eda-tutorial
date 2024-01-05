@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
+
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
 - [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -14,11 +15,13 @@ zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
 - [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -31,14 +34,15 @@ zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/pycon-2017-eda-tutorial](https://github.com/zaknbur/pycon-2017-eda-tutorial)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/23/23 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -193,22 +197,23 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (10)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[ipyleaflet](https://pypi.org/ipyleaflet)|v0.9.1|05/29/19|cmawer |MIT|N/A|
-|[itsdangerous](https://pypi.org/itsdangerous)|v1.1.0|05/29/19|cmawer |BSD-3-Clause|N/A|
-|[jedi](https://pypi.org/jedi)|v0.13.1|05/29/19|cmawer |MIT|N/A|
-|[jmespath](https://pypi.org/jmespath)|v0.9.3|05/29/19|cmawer |MIT|N/A|
-|[jsonschema](https://pypi.org/jsonschema)|N/A|05/29/19|cmawer |MIT|N/A|
-|[jupyter-client](https://pypi.org/jupyter-client)|v5.2.3|05/29/19|cmawer |BSD-3-Clause|N/A|
-|[jupyter-core](https://pypi.org/jupyter-core)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|[CVE-2022-39286](https://github.com/advisories/GHSA-m678-f26j-3hrp) (High)|
-|[jupyterlab](https://pypi.org/jupyterlab)|v0.35.4|05/29/19|cmawer |BSD-3-Clause|[CVE-2021-32797](https://github.com/advisories/GHSA-4952-p58q-6crx) (High)|
-|[nbformat](https://pypi.org/nbformat)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|N/A|
-|[palettable](https://pypi.org/palettable)|v3.1.1|05/29/19|cmawer |MIT|N/A|
+|[ipyleaflet](https://pypi.org/project/ipyleaflet)|v0.9.1|05/29/19|cmawer |MIT|N/A|
+|[itsdangerous](https://pypi.org/project/itsdangerous)|v1.1.0|05/29/19|cmawer |BSD-3-Clause|N/A|
+|[jedi](https://pypi.org/project/jedi)|v0.13.1|05/29/19|cmawer |MIT|N/A|
+|[jmespath](https://pypi.org/project/jmespath)|v0.9.3|05/29/19|cmawer |MIT|N/A|
+|[jsonschema](https://pypi.org/project/jsonschema)|N/A|05/29/19|cmawer |MIT|N/A|
+|[jupyter-client](https://pypi.org/project/jupyter-client)|v5.2.3|05/29/19|cmawer |BSD-3-Clause|N/A|
+|[jupyter-core](https://pypi.org/project/jupyter-core)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|[CVE-2022-39286](https://github.com/advisories/GHSA-m678-f26j-3hrp) (High)|
+|[jupyterlab](https://pypi.org/project/jupyterlab)|v0.35.4|05/29/19|cmawer |BSD-3-Clause|[CVE-2021-32797](https://github.com/advisories/GHSA-4952-p58q-6crx) (High)|
+|[nbformat](https://pypi.org/project/nbformat)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|N/A|
+|[palettable](https://pypi.org/project/palettable)|v3.1.1|05/29/19|cmawer |MIT|N/A|
+|[statsmodels](https://pypi.org/project/statsmodels)|v0.9.0|05/29/19|cmawer |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
