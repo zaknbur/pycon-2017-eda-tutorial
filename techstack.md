@@ -3,16 +3,16 @@
 ## Tech Stack
 zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [IPython](http://ipython.org/index.html) – Shells
 - [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 zaknbur/pycon-2017-eda-tutorial is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg' alt='pip'/> [pip](https://pypi.org/project/pip/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/10242/default_10e3fd58c910dc0c4241bc273a7235a0aa4197dd.png' alt='Requests'/> [Requests](http://docs.python-requests.org/en/latest/) – Data Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2657/scikit-learn-logo.png' alt='scikit-learn'/> [scikit-learn](http://scikit-learn.org/stable/) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/pycon-2017-eda-tutorial](https://github.com/zaknbur/pycon-2017-eda-tutorial)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|01/05/24 <br/>Report generated|
+|27<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -210,7 +210,7 @@ Full tech stack [here](/techstack.md)
 |[jsonschema](https://pypi.org/project/jsonschema)|N/A|05/29/19|cmawer |MIT|N/A|
 |[jupyter-client](https://pypi.org/project/jupyter-client)|v5.2.3|05/29/19|cmawer |BSD-3-Clause|N/A|
 |[jupyter-core](https://pypi.org/project/jupyter-core)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|[CVE-2022-39286](https://github.com/advisories/GHSA-m678-f26j-3hrp) (High)|
-|[jupyterlab](https://pypi.org/project/jupyterlab)|v0.35.4|05/29/19|cmawer |BSD-3-Clause|[CVE-2021-32797](https://github.com/advisories/GHSA-4952-p58q-6crx) (High)|
+|[jupyterlab](https://pypi.org/project/jupyterlab)|v0.35.4|05/29/19|cmawer |BSD-3-Clause|[CVE-2024-22421](https://github.com/advisories/GHSA-44cc-43rp-5947) (High)<br/>[CVE-2021-32797](https://github.com/advisories/GHSA-4952-p58q-6crx) (High)|
 |[nbformat](https://pypi.org/project/nbformat)|v4.4.0|05/29/19|cmawer |BSD-3-Clause|N/A|
 |[palettable](https://pypi.org/project/palettable)|v3.1.1|05/29/19|cmawer |MIT|N/A|
 |[statsmodels](https://pypi.org/project/statsmodels)|v0.9.0|05/29/19|cmawer |BSD-3-Clause|N/A|
