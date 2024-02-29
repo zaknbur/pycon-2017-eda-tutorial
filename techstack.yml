@@ -2,7 +2,7 @@ repo_name: zaknbur/pycon-2017-eda-tutorial
 report_id: 4963a3589fb0382e6e77c24c610d1189
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:35:15+00:00'
+timestamp: '2024-02-29T18:52:46+00:00'
 requested_by: zaknbur
 provider: github
 branch: master
@@ -316,6 +316,12 @@ tools:
   last_updated_by: cmawer
   last_updated_on: 2019-05-29 17:59:07.000000000 Z
   vulnerabilities:
+  - name: JupyterLab vulnerable to potential authentication and CSRF tokens leak
+    cve_id: CVE-2024-22421
+    cve_url: https://github.com/advisories/GHSA-44cc-43rp-5947
+    detected_date: Jan 20
+    severity: high
+    first_patched: 3.6.7
   - name: 'JupyterLab: XSS due to lack of sanitization of the action attribute of
       an html <form>'
     cve_id: CVE-2021-32797
